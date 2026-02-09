@@ -3,7 +3,7 @@
 [
 
 **Cross-domain predictive modeling with Monte Carlo + Tails/Markov/HOMER hybrids**  
-*Physics -  Finance -  Social Dynamics* | Chicago researcher | Feb 2026
+*Physics -  Finance -  Social Dynamics* | New Orleans researcher | Feb 2026
 
 Implements the three **predictive pairs** from the paper:
 
