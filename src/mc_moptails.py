@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#!/usr/bin/env python3
 
 """
 mc_moptails.py
@@ -15,6 +11,9 @@ Provides:
 
 Intended for physics/finance tail-risk experiments.
 """
+
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Marlon J. Broussard de Beausoleil
 
 import numpy as np
 from dataclasses import dataclass
