@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#!/usr/bin/env python3
 
 """
 mcmc_homer.py
@@ -14,6 +10,9 @@ Use for experiments where:
 
 This module focuses on the Markov + Monte Carlo logic; plug in your real HOMER model via the cost_model callback.
 """
+
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Marlon J. Broussard de Beausoleil
 
 import numpy as np
 from dataclasses import dataclass
