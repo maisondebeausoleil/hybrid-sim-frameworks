@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#!/usr/bin/env python3
 
 """
 hmc_pdmp.py
@@ -16,6 +12,9 @@ toy implementation.
 Use this for social dynamics / physics toy models where you want
 continuous evolution interrupted by discrete jumps.
 """
+
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Marlon J. Broussard de Beausoleil
 
 import numpy as np
 from dataclasses import dataclass
