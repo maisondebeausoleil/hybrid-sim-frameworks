@@ -122,4 +122,4 @@ jupyter>=1.0
 
 ***
 
-**Chicago physics/finance researcher** | Questions? Open an issue 🚀
+**New Orleans physics/finance researcher** | Questions? Open an issue 🚀
