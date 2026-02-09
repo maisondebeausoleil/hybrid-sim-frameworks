@@ -1,0 +1,5 @@
+[project]
+name = "hybrid-sim-frameworks"
+license = {text = "MIT"}
+authors = [{name = Marlon J. Broussard de Beausoleil, email = "themoneyshark@proton.me"}]
+description = "Monte Carlo + Tails/Markov/HOMER predictive pairs"
